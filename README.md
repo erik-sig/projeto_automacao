@@ -12,13 +12,13 @@ Um One Page é um resumo muito simples e direto ao ponto, usado pela equipe de g
 
 Exemplo de OnePage:
 
-![title](onepage.png)
+(PRESENTE NA PASTA DO PROJETO)
 
 O seu papel, como Analista de Dados, é conseguir criar um processo da forma mais automática possível para calcular o OnePage de cada loja e enviar um email para o gerente de cada loja com o seu OnePage no corpo do e-mail e também o arquivo completo com os dados da sua respectiva loja em anexo.
 
 Ex: O e-mail a ser enviado para o Gerente da Loja A deve ser como exemplo
 
-![exemplo_email](Exemplo.JPG)
+(PRESENTE NA PASTA DO PROJETO)
 
 ### Arquivos e Informações Importantes
 
