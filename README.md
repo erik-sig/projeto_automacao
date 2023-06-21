@@ -16,7 +16,7 @@ O projeto visa automatizar processos de relatório de lojas espalhadas pelo Bras
 
 Exemplo:
 
-![Exemplo](Automac%CC%A7a%CC%83o%20de%20Indicadores%202153b749e66a44a0a4e5f9e88cf35bbd/Exemplo.png)
+![Exemplo](\projeto_automacao\Exemplo.png)
 
 Como pode ser visto acima no exemplo, é um ONE PAGE simples visando os cumprimentos de metas e ao final um anexo com um Excel detalhado das vendas da loja do respectivo gerente.
 
