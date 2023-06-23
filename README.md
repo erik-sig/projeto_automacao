@@ -16,7 +16,7 @@ O projeto visa automatizar processos de relatório de lojas espalhadas pelo Bras
 
 Exemplo:
 <div align="center"> 
-<img src="https://github.com/erik-sig/projeto_automacao/assets/88802835/7a64337f-7e4f-4cca-843e-cd62b85dec97" width="500px"/>
+<img src="https://github.com/erik-sig/projeto_automacao/assets/88802835/888d694e-d976-41b5-acb4-bec199c8f442" width="500px"/>
 </div>
 
 Como pode ser visto acima no exemplo, é um ONE PAGE simples visando os cumprimentos de metas e ao final um anexo com um Excel detalhado das vendas da loja do respectivo gerente.
